@@ -1,5 +1,14 @@
 # Student-Performance-Analysis
-Statistical Techniques Applied: Central tendency, Dispersion, Covariance, and Correlation with Graphical Analysis.
+**Statistical Techniques Applied:**
+
+➢Measuring the Central Tendency 
+
+➢Measuring the Dispersion of Data
+
+➢Covariance and Correlation Analysis
+
+➢Graphic Displays of Basic Statistics of Data
+
 
 ![image alt](https://github.com/Andrew192100099/Student-Performance-Analysis/blob/main/Correlation%20Matrix%20Heatmap.png?raw=true)
 
